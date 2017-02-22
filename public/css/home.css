@@ -1,0 +1,29 @@
+body
+{
+ 
+}
+
+#pres_note
+{
+    padding-right:200px;
+    padding-left:200px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#patientsTable
+{
+    margin-right:50px;
+    margin-left:50px;
+}
+textarea
+{
+    font-weight: bold;
+}
+
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #428bca;
+    color: white;
+
+}
